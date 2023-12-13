@@ -6,21 +6,21 @@
 
 
 ###
-###  COURSE INFO
+###  Quick Facts
 ###
 
 
 github_info:
-    username:       DS4PS   # GitHub account name
-    branch:         master
-    website-repo:   intro-data-science-TEMPLATE
-    course-repo:    intro-data-science-TEMPLATE
+    username:       elceespatial   # GitHub account name
+    branch:         main
+    website-repo:   tnd007
+    course-repo:    tnd007
  
 description:        Intro. course in data science
 
-url:                "https://ds4ps.github.io"
-baseurl:            "/intro-data-science-TEMPLATE"
-course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
+url:                "elceespatial.github.io"
+baseurl:            "tnd007"
+course_url:         "https://elceespatial.github.io/tnd007/"
 title:              ds4ps   # GitHub account name
 
 brand:
@@ -35,7 +35,7 @@ brand:
 
 program-logo:       "demo-logo.png"
 
-program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
+program-website:    "https://gmu.edu/"
 
      
 
@@ -44,17 +44,17 @@ program-website:    "https://ds4ps.org/ms-prog-eval-data-analytics/courses/"
     
       
 ###
-### COURSE INSTRUCTOR:
+### PhD Student:
 ###
 
 author:
-    name:       Jamison Crawford
-    github:     jamisoncrawford   # Github username for avatar
+    name:       L.Carter
+    github:     elceespatial   # Github username for avatar
 
 
 # app for scheduling virtual office hours appointments
 
-calendly:      'https://calendly.com/jamisoncrawford/20min'
+#calendly:      'https://calendly.com/jamisoncrawford/20min'
 
 
 
@@ -65,17 +65,17 @@ calendly:      'https://calendly.com/jamisoncrawford/20min'
 ###
 
 header:
-- title: Syllabus
+- title: Introduction
   url:
-- title: Schedule-V1
+- title: Data
   url: schedule-v2/
-- title: Schedule-V2
+- title: Code
   url: schedule/
 # - title: Textbook
 #   url: https://ds4ps.org/dp4ss/#dp4ss-data-programming-for-the-social-sciences
-- title: Lab Templates
+- title: Results
   url: templates/
-- title: Review Sessions
+- title: Summary
   url: review/
 - title: Resources
   url: resources/
