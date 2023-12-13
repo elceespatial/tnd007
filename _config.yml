@@ -16,12 +16,12 @@ github_info:
     website-repo:   tnd007
     course-repo:    tnd007
  
-description:        Intro. course in data science
+description:        CLIM680
 
 url:                "elceespatial.github.io"
 baseurl:            "tnd007"
 course_url:         "https://elceespatial.github.io/tnd007/"
-title:              ds4ps   # GitHub account name
+title:              elceespatial   # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
